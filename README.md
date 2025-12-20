@@ -2,35 +2,30 @@
 
 ![Image](https://github.com/user-attachments/assets/c63bfbd7-b670-4cb6-8534-0beb5bdfccad)
 
+#🚀 Features
 
-## ☕ Coffee Shop App Overview
+**Coffee Menu:** Browse a wide variety of coffee options with beautiful images and descriptions.
 
-A Flutter-based mobile application designed to provide users with a seamless and delightful experience for browsing and ordering coffee. The app combines elegant UI with clean architecture and efficient state management to ensure fast performance and ease of use.
+**Order Customization:** Customize your coffee orders according to your preferences.
 
-## 🛠️ Core Technologies
+**Infinite Scrolling:** Smoothly scroll through the coffee menu without interruptions.
 
-**Flutter & Dart:** The app is developed using Flutter, ensuring a smooth and responsive cross-platform experience.
+**Reviews & Ratings:** View and share feedback on different coffee items.
 
-**MVVM Architecture:** Adopts the Model-View-ViewModel pattern to separate concerns and enhance code readability.
+**Search Functionality:** Quickly find your favorite coffee using the custom search bar.
 
-**Bloc:** Employs the BLoC (Business Logic Component) pattern for state management, offering a robust and testable solution.
+**Localization:** Full multi-language support (English & Arabic) as configured in l10n.yaml.
 
-**AutoRoute:** Utilizes AutoRoute for type-safe and declarative routing, simplifying navigation.
+**Onboarding Experience:** Engaging introductory screens for new users.
 
-**Localization:** Integrates multi-language support to deliver a tailored user experience across different regions.
+#🛠️ Tech Stack & Tools
 
-## 🔍 Key Features
+**State Management:** BLoC (Business Logic Component) for robust state handling.
 
-**Coffee Menu:** Displays a variety of coffee options with images and descriptions.
+**Architecture:** MVVM (Model-View-ViewModel) for clear separation of concerns.
 
-**Infinite Scrolling:** Allows users to scroll through the menu seamlessly.
+**Navigation:** AutoRoute (for strongly-typed and declarative routing).
 
-**Reviews and Ratings:** Users can view and submit reviews and ratings for each coffee item.
+**UI Design:** Modern and responsive interface with custom navigation components.
 
-**Order Customization:** Provides options to customize coffee orders to user preferences.
-
-**Introductory Screens:** Welcomes users with engaging introductory screens.
-
-**Custom Search Bar:** Enables users to search for specific coffee items.
-
-**Custom Bottom Navigation Bar:** Offers intuitive navigation throughout the app.
+**Localization:** Built-in Flutter localization support.
