@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/c63bfbd7-b670-4cb6-8534-0beb5bdfccad)
 
-#🚀 Features
+# 🚀 Features
 
 **Coffee Menu:** Browse a wide variety of coffee options with beautiful images and descriptions.
 
@@ -18,7 +18,7 @@
 
 **Onboarding Experience:** Engaging introductory screens for new users.
 
-#🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
 **State Management:** BLoC (Business Logic Component) for robust state handling.
 
