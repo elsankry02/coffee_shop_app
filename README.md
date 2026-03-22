@@ -18,7 +18,12 @@ This project isn't just about looks; it's engineered for **global scalability**.
 
 ## 🚀 Key Features (Detailed)
 
-* **🎨 Figma-to-Code Excellence:** A precise implementation of the [Coffee Shop Figma Design](https://www.figma.com/community/file/1116708627748807811), ensuring a modern and elite visual identity.
+---
+
+## 🎨 Design Credit
+
+This project was built based on a community design to showcase high-fidelity UI-to-Code conversion. 
+* **Figma Original Design:** [🔗 Coffee Shop Mobile App Design (Community)](https://www.figma.com/design/ij7owQ87NqVVRmiU0Sugew/Coffee-Shop-Mobile-App-Design--Community-?m=auto&t=pIfcjgp5zt3VRoFy-6)
 * **☕ Interactive Coffee Menu:** Browse an extensive variety of coffee options with high-definition imagery and engaging descriptions.
 * **🛠️ Advanced Order Customization:** Tailor every cup to perfection—adjusting size, milk type, and additional preferences with a reactive UI.
 * **📜 Seamless Infinite Scrolling:** Experience an uninterrupted browsing flow through the menu, optimized for high performance.
